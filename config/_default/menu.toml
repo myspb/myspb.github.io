@@ -1,0 +1,39 @@
+# Configure main menu and social menu
+#[[main]]
+#identifier = "home"
+#name = "Home"
+#url = "/"
+#[main.params]
+#icon = "home"
+#newtab = true
+
+[[social]]
+identifier = "github"
+name = "GitHub"
+url = "https://github.com/FedoseevSM"
+
+[social.params]
+icon = "brand-github"
+
+[[social]]
+identifier = "instagram"
+name = "Instagram"
+url = "https://inflact.com/instagram-viewer/?profile=hipackme"
+
+[[social]]
+identifier = "youtube"
+name = "YouTube"
+url = "https://socialblade.com/youtube/channel/UCwt4lgpwLt9kbYJhVD2k_1g"
+
+[[social]]
+identifier = "telegram"
+name = "Telegram"
+url = "https://tglink.ru/semyonfedoseev"
+
+[[social]]
+identifier = "setka"
+name = "Setka"
+url = "https://setka.ru/accounts/34fa8040-47fb-4474-a94a-67d461712261"
+
+# [social.params]
+# icon = "instagram"
